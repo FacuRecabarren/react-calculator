@@ -11,7 +11,7 @@
   }
 
   input {
-    @apply w-full h-24 text-right bg-slate-800 rounded-sm text-white
+    @apply w-full h-24 text-right p-4 bg-slate-800 rounded-sm text-white
   }
 
   .buttons {
